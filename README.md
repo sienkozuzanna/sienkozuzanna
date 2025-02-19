@@ -12,7 +12,7 @@ I’m particularly drawn to the power of **machine learning**, the art of **pred
 ### How to Reach Me
 
 -  Email: [zuza.sienko@wp.pl](mailto:zuza.sienko@wp.pl)
--  LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/zuzanna-sienko/)) 
+-  LinkedIn: [Zuzanna Sieńko]((https://www.linkedin.com/in/zuzanna-sienko/)) 
 
 <!--
 **sienkozuzanna/sienkozuzanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
